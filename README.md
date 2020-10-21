@@ -1,5 +1,5 @@
 # NetMiko-RouteTables
-A script to support operational work by exporting and saving your Cisco IOS Device's Route Table.
+Keep a historical record of your Cisco Device's Routing Table. Great during Operational/Project Work when you want to retrospectively see how traffic was being routed from a given device.
 
 ## Setup And Installation
 Ensure you install NetMiko by using the below command:
